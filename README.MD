@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I’m a Data Science student currently transitioni
 - **Programming & Algorithms**: I enjoy building efficient algorithms and diving into the complexity of data structures.
 - **Data Analysis & Visualization**: Experienced with R, Python and exploring statistical techniques, plus creating data visualizations to derive insights.
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 Here are a few of my recent projects:
 - **Case Study: Cyclistic bike sharing**: Analyze historical trip data in order to understand the different between casual member and annual members. (On going)
 - **Case Study: Bellabeat**: Analyze smart device fitneet data and determine how these insights, trends can inform Bellabeat marketing strategy. (On going)
+-->
 
 ## 🌱 Currently Learning
 - **Advanced Java**: Exception handling, recursion, and ADTs.
