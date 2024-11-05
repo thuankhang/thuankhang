@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I’m a Data Science student currently transitioni
 
 ## 🚀 Projects
 Here are a few of my recent projects:
-- **Case Study: Cyclistic bike sharing**: Analyze historical trip data in order to understand the different between casual member and annual members.
-- **Case Study: Bellabeat**: Analyze smart device fitneet data and determine how these insights, trends can inform Bellabeat marketing strategy.
+- **Case Study: Cyclistic bike sharing**: Analyze historical trip data in order to understand the different between casual member and annual members. (On going)
+- **Case Study: Bellabeat**: Analyze smart device fitneet data and determine how these insights, trends can inform Bellabeat marketing strategy. (On going)
 
 ## 🌱 Currently Learning
 - **Advanced Java**: Exception handling, recursion, and ADTs.
